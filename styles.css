@@ -1,0 +1,63 @@
+/* CSS Document */
+body {
+	font-family: "Trebuchet MS", Tahoma, Verdana;
+	font-size: 12px;
+	font-weight: normal;
+	color: #777777;
+	text-decoration: none;
+	background-color: #FFFFFF;
+}
+a {
+	color: #0066CC;
+	text-decoration: none;
+}
+a:hover {
+	color: #0066CC;
+	text-decoration: underline;
+}
+img {
+	border: none;
+}
+#main {
+	width: 750px;
+	margin: 0 auto 0 auto;
+}
+#form {
+	padding: 16px;
+}
+#form input {
+	font-family: "Trebuchet MS", Tahoma, Verdana;
+	font-size: 12px;
+	font-weight: normal;
+	color: #777777;
+	border-top: 2px solid #808080;
+	border-right: 1px solid #D4D0C8;
+	border-bottom: 1px solid #D4D0C8;
+	border-left-width: 2px solid #808080;
+}
+#title {
+	background-color: #F4F4F4;
+	padding: 8px 16px;
+	font-size: 13px;
+}
+#title em {
+	font-size: 12px;
+}
+#content {
+	padding: 8px 0;
+}
+#content #item {
+	border-bottom: 1px solid #E8E8E8;
+	padding: 16px 16px 8px 16px;
+}
+#content #item .tit {
+	font-weight: bold;
+	font-size: 13px;
+}
+#content #item em {
+	color: #CCCCCC;
+}
+#footer {
+	padding: 8px 16px;
+	text-align: right;
+}
